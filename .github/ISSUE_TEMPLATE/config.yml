@@ -7,6 +7,7 @@ contact_links:
     url: https://bounty.github.com/
     about: Reporte vulnerabilidades de segurança aqui.
   - name: Rastreando problema
+    url: https://github.com/lucaswork/lucaswork/issues/new
     about: Use este modelo para rastrear novos recursos.
     title: "[DATE]: [FEATURE NAME]"
     labels: rastreando problema, precisa de triagem
