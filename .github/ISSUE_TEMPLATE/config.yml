@@ -7,7 +7,6 @@ contact_links:
     url: https://bounty.github.com/
     about: Reporte vulnerabilidades de segurança aqui.
   - name: Rastreando problema
-    name: Rastreando problema
     about: Use este modelo para rastrear novos recursos.
     title: "[DATE]: [FEATURE NAME]"
     labels: rastreando problema, precisa de triagem
