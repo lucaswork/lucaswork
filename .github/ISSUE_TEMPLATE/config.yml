@@ -2,13 +2,13 @@ blank_issues_enabled: true
 contact_links:
   - name: Nova Funcionalidade
     url: https://github.com/lucaswork/lucaswork/issues/new?title=nova-funcionalidade&body=checklist-de-testes
-    about: Use este modelo para rastrear novos recursos.
+    about: Use este modelo para descrever funciondalide.
     title: "[DATE]: [FEATURE NAME]"
     labels: rastreando problema, precisa de triagem
     assignees: octocat
   - name: Novo BUG
     url: https://github.com/lucaswork/lucaswork/issues/new?title=bug&body=vesh
-    about: Use este modelo para rastrear novos recursos.
+    about: Use este modelo para relatar um bug.
     title: "[DATE]: [FEATURE NAME]"
     labels: rastreando problema, precisa de triagem
     assignees: octocat
