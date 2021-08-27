@@ -1,13 +1,13 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Suporte à Comunidade GitHub
-    url: https://github.community/
-    about: Pergunte e responda dúvidas aqui.
-  - name: GitHub Recompensa de bug de segurança
-    url: https://bounty.github.com/
-    about: Reporte vulnerabilidades de segurança aqui.
-  - name: Rastreando problema
-    url: https://github.com/lucaswork/lucaswork/issues/new
+  - name: Nova Funcionalidade
+    url: https://github.com/lucaswork/lucaswork/issues/new?title=nova-funcionalidade&body=checklist-de-testes
+    about: Use este modelo para rastrear novos recursos.
+    title: "[DATE]: [FEATURE NAME]"
+    labels: rastreando problema, precisa de triagem
+    assignees: octocat
+  - name: Novo BUG
+    url: https://github.com/lucaswork/lucaswork/issues/new?title=bug&body=vesh
     about: Use este modelo para rastrear novos recursos.
     title: "[DATE]: [FEATURE NAME]"
     labels: rastreando problema, precisa de triagem
